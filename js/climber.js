@@ -1,0 +1,6 @@
+class Climber {
+    constructor() {
+        
+    }
+
+}
